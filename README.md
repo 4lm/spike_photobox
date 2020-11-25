@@ -1,3 +1,3 @@
 # spike_photobox
 
-Run index.hmtl to start
+Run index.html to start
